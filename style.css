@@ -479,3 +479,14 @@ html:not(.js-swim) .fish-water{display:none}
 .btn-sm.btn-disabled .soon-tag{font-size:.58em}
 .foot-soon{opacity:.55;cursor:not-allowed}
 .fresh-more{text-align:center;font-weight:700;color:#fff;margin-top:10px;font-size:1.02rem}
+
+/* ===== Save the Sea Turtles top banner ===== */
+.turtle-banner{display:flex;justify-content:center;align-items:center;gap:12px;flex-wrap:wrap;padding:9px 16px;background:linear-gradient(90deg,#1f9d6b,#2fc4a8,#1f9d6b);color:#fff;font-family:"Baloo 2";font-weight:800;font-size:1.08rem;letter-spacing:.02em;text-decoration:none;text-align:center}
+.turtle-banner span{font-family:Nunito;font-weight:700;font-size:.9rem;opacity:.95;text-decoration:underline;text-underline-offset:3px}
+.turtle-banner:hover{filter:brightness(1.08)}
+/* new fish sizes: smaller lionfish, larger mako */
+.fn-lionfish .fs{width:66%;margin:8% auto 0}
+.fn-mako .fs{width:134%;margin:-27% 0 -27% -17%}
+.fnew{overflow:visible}
+.demo-coop{margin-top:10px;font-weight:700}
+.fnew{align-items:end}
